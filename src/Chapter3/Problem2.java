@@ -1,11 +1,10 @@
-import javax.swing.JOptionPane;
+package Chapter3;
 /*
  * user inputs a date to see if the date is "magical"
  * if it is, program outputs message that says date is not magical
  * if it is, program displays message that says it's magical.
  */
-package Chapter3;
-
+import javax.swing.JOptionPane;
 /**
  *
  * @author kianna

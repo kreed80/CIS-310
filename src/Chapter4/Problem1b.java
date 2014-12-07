@@ -1,15 +1,14 @@
-import java.util.Scanner;
+package Chapter4;
 /*
  * Ask user to input an integer and program adds the preceding numbers
     starting at 0.
  */
-package Chapter4;
-
+import java.util.Scanner;
 /**
  *
  * @author kianna
  */
-public class Problem1 
+public class Problem1b 
 {
     public static void main(String[] args)
     {

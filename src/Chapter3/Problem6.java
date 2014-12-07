@@ -1,9 +1,10 @@
+package Chapter3;
+
 import java.util.Scanner;
 /*
  * Prompt user to enter a number of seconds and convert the number into minutes, 
     hours or days.
  */
-package Chapter3;
 
 /**
  *

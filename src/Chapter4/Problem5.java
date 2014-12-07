@@ -1,10 +1,9 @@
-import java.util.Scanner;
+package Chapter4;
 /* Prompt user to enter a string and a letter, program will count and
     display the amount of times the character is in the string.
 
- */
-package Chapter4;
-
+*/
+import java.util.Scanner;
 /**
  *
  * @author kianna

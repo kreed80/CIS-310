@@ -1,10 +1,9 @@
-import java.util.Scanner;
+package Chapter2;
 /*
  *Program will ask a user to input a purchase price
 then it will compute the state and county sales tax.
  */
-package Chapter2;
-
+import java.util.Scanner;
 /**
  *
  * @author kianna
